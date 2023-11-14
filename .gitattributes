@@ -26,3 +26,6 @@
 *.gtl linguist-language=KiCad
 *.gto linguist-language=KiCad
 *.gts linguist-language=KiCad
+
+# Ignore Python files
+*.py linguist-detectable=false

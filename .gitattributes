@@ -1,0 +1,28 @@
+# .gitattributes file for KiCad project
+
+# KiCad Schematic and Symbol Files
+*.kicad_sch linguist-language=KiCad
+*.kicad_sym linguist-language=KiCad
+
+# KiCad PCB Files
+*.kicad_pcb linguist-language=KiCad
+
+# KiCad Footprint Files
+*.kicad_mod linguist-language=KiCad
+
+# KiCad 3D Model Files
+*.wrl linguist-language=KiCad
+*.step linguist-language=KiCad
+
+# KiCad BOM (Bill of Materials) Files
+*.xml linguist-language=KiCad
+
+# KiCad Gerber Files
+*.gbr linguist-language=KiCad
+*.drl linguist-language=KiCad
+*.gbl linguist-language=KiCad
+*.gbo linguist-language=KiCad
+*.gbs linguist-language=KiCad
+*.gtl linguist-language=KiCad
+*.gto linguist-language=KiCad
+*.gts linguist-language=KiCad

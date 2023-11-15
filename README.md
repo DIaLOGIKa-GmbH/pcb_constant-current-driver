@@ -62,7 +62,7 @@ _(AL8860MP driver efficiency at 1.5A)_
 
 ### Comparison
 
-Therea re many off-the-shelf LED driver modules available. One of them, the [Meanwell LDD700LS](https://www.meanwell-web.com/content/files/pdfs/productPdfs/MW/LDD-l/ldd-l-spec.pdf) was used here as a refernce point. When supplied with `36V` at `700mA` and a LED forward voltage of `14V`, it seems to have an efficieny of `87%`. Even in our worst case scenario our driver is more efficient.
+There are many off-the-shelf LED driver modules available. One of them, the [Meanwell LDD700LS](https://www.meanwell-web.com/content/files/pdfs/productPdfs/MW/LDD-l/ldd-l-spec.pdf) was used here as a refernce point. When supplied with `36V` at `700mA` and a LED forward voltage of `14V`, it seems to have an efficieny of `87%`. Even in our worst case scenario our driver is more efficient.
 
 ![meanwell LDD700LS efficiency](assets/ldd700ls_efficiency.png)
 _(LDD700LS driver module efficiency [fig 3, page 4])_

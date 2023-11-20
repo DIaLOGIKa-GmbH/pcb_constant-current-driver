@@ -73,7 +73,7 @@ Since the dimming pin of most LED driver ICs is open drain with a limited voltag
 
 The following circuit achieves all of that, while also supporting trigger voltages as high as VCC of the LED board, while also making sure that pulling the input to ground still disables it.
 
-By default this circuit turn the device on and has to be actively turned off.
+By default this circuit turns the device on and has to be actively turned off.
 
 ![constant current driver render](assets/pwm_input_protection.png)
 _(PWM input modification schematic)_
